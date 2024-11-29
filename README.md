@@ -51,6 +51,6 @@
 
 ### Telegram:
 <a href="https://t.me/re_nikita/">
-<img src="https://github.com/repinikita/repinikitai/blob/new_branch/assets/Telegram.png" alt="Telegram" width="50" height="50"/>&nbsp
+<img src="https://github.com/repinikita/repinikitai/blob/new_branch/assets/0a50c1516e434e0108649d2987cfaeb0.jpg" alt="Telegram" width="50" height="50"/>&nbsp
   
 </a>
