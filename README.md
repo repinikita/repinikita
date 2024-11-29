@@ -26,7 +26,6 @@
   <img src="https://github.com/repinikita/overview/blob/new_branch/assets/kibana-logo.png" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp
   <img src="https://github.com/repinikita/overview/blob/new_branch/assets/Sentry.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp
   <img src="https://github.com/repinikita/overview/blob/new_branch/assets/Grafana-Dark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp
-  <img src="" title="Jaeger" alt="Jaeger" width="40" height="40"/>&nbsp
 </div>
 
 ### Тестовая документация 
