@@ -2,6 +2,7 @@
 
 
 ## Меня зовут Никита, я QA Engineer
+https://repinikita.github.io/
 
 ## Инструменты: 
 ### Тестирование API и интеграций
