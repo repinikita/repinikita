@@ -2,9 +2,11 @@
   <h1 align="center">Hi there, I'm <a href="https://github.com/repinikita" target="_blank">Nikita</a> :vulcan_salute: </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Qa+Engineer+from+Perm)](https://git.io/typing-svg)
-
-align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+</div>
+
+
 </div>
 
 
