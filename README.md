@@ -49,7 +49,7 @@ https://repinikita.github.io/
    <img src="https://avatars.githubusercontent.com/u/47823040?v=4" title="QASE" alt="Test It" width="40" height="40"/>&nbsp
      </div>
   
-## Работа с базами данных
+### Работа с базами данных
 <div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
