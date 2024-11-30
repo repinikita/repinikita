@@ -66,6 +66,11 @@ https://repinikita.github.io/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
 </div>
 
+### 📑 Тестовые артефакты:
+ - [Техники тест-дизайна](https://github.com/repinikita/test_design)
+ - [Тестирование API](https://github.com/repinikita/knigiroom)
+ - [Работа с базами данных](https://github.com/repinikita/sql_practice)
+
 ## 🤝 Контакт
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3c5MnUyNHo0aWRzaTZwajVoeXQxYXQzNDBraXpzODU4MzQxcW85YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="100"/>
