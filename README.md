@@ -37,9 +37,9 @@ https://repinikita.github.io/
     <img src="https://logosandtypes.com/wp-content/uploads/2023/03/clickup.svg" title="ClickUp" alt="ClickUp" width="40" height="40"/>&nbsp
     <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
-  </div>
-    <img src="https://camo.githubusercontent.com/846a58b5795502a7f7b4016dd2c934bad2d3b80341db7ce9fc0ada3c8a1ac2d3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a6972612d6f726967696e616c2e737667" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
-  <img src="https://avatars.githubusercontent.com/u/47823040?v=4" title="QASE" alt="Test It" width="40" height="40"/>&nbsp
+  <img src="https://camo.githubusercontent.com/846a58b5795502a7f7b4016dd2c934bad2d3b80341db7ce9fc0ada3c8a1ac2d3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a6972612d6f726967696e616c2e737667" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
+   <img src="https://avatars.githubusercontent.com/u/47823040?v=4" title="QASE" alt="Test It" width="40" height="40"/>&nbsp
+     </div>
   
 
 ### Работа с базами данных
