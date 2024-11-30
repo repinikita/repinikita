@@ -83,10 +83,6 @@ https://repinikita.github.io/
   </tr>
 </table>
 
----
- - [Техники тест-дизайна](https://github.com/repinikita/test_design)
- - [Тестирование API](https://github.com/repinikita/knigiroom)
- - [Работа с базами данных](https://github.com/repinikita/sql_practice)
 
 ### 📜 Моё [резюме]()
 
