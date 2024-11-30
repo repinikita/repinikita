@@ -67,9 +67,28 @@ https://repinikita.github.io/
 </div>
 
 ### 📑 Тестовые артефакты:
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li><a href="https://github.com/repinikita/test_design">Техники тест-дизайна</a></li>
+        <li><a href="https://github.com/repinikita/knigiroom">Тестирование API</a></li>
+        <li><a href="https://github.com/repinikita/sql_practice">Работа с базами данных</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="300" />
+    </td>
+  </tr>
+</table>
+
+---
  - [Техники тест-дизайна](https://github.com/repinikita/test_design)
  - [Тестирование API](https://github.com/repinikita/knigiroom)
  - [Работа с базами данных](https://github.com/repinikita/sql_practice)
+
+### 📜 Моё [резюме]()
 
 ## 🤝 Контакт
 <div id="header" align="center">
