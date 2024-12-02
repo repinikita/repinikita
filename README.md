@@ -90,33 +90,40 @@ https://repinikita.github.io/
   <div>
     <ul>
         <li>
-            <a href="https://stepik.org/cert/2638253lang=en">Postman-ninja: From scratch to autotests</a>
+            <a href="https://stepik.org/cert/2638253">Postman-ninja: From scratch to autotests</a>
         </li>
         <li>
-            <a href="https://stepik.org/cert/2282328">Docker for beginners + practical experience</a>
-        </li>
-        <li>
-            <a href="https://stepik.org/cert/2360407">Certificate of Artem Rusov:
+            <a href="https://stepik.org/cert/2366782">Certificate of Artem Rusov:
                 Software testing from
                 scratch</a>
         </li>
         <li>
-            <a href="https://stepik.org/cert/2179033">Web Development for Beginners: HTML and CSS</a>
+            <a href="https://stepik.org/cert/2388339?lang=eng">Web Technologies</a>
         </li>
         <li>
-            <a href="https://stepik.org/cert/1894075">Introduction to databases</a>
+            <a href="https://stepik.org/cert/2647882?lang=eng">SQL Basics</a>
         </li>
         <li>
-            <a href="https://stepik.org/cert/1862842">Interactive SQL Trainer</a>
+            <a href="">Interactive SQL Trainer</a>
         </li>
         <li>
             <a href="https://stepik.org/cert/1759156">The universe of testing, or how to become a tester</a>
         </li>
         <li>
-            <a href="https://stepik.org/cert/1739201">Software Testing: Postman for API Testing</a>
+            <a href="https://stepik.org/cert/1973608?lang=eng">Software Testing: Postman for API Testing</a>
+        </li>
+        <li>
+            <a href="https://stepik.org/cert/2366033?lang=eng">Practical Testing-Basic course</a>
+        </li>
+        <li>
+            <a href="https://stepik.org/cert/2597387?lang=eng">Agile Project Managment</a>
+        </li>
+          <li>
+            <a href="https://stepik.org/cert/2624123?lang=eng">Project Managment.From Theory to Practise</a>
         </li>
     </ul>
   </div>
+  
 ### 🤝 Контакт
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150px" />
