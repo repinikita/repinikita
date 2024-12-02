@@ -86,7 +86,35 @@ https://repinikita.github.io/
 
 ### 📜 Моё [резюме]()
 
-###Сертификаты
+### 📚Сертификаты
+    <ul>
+        <li>
+            <a href="https://stepik.org/cert/2638253lang=en">Postman-ninja: From scratch to autotests</a>
+        </li>
+        <li>
+            <a href="https://stepik.org/cert/2282328">Docker for beginners + practical experience</a>
+        </li>
+        <li>
+            <a href="https://stepik.org/cert/2360407">Certificate of Artem Rusov:
+                Software testing from
+                scratch</a>
+        </li>
+        <li>
+            <a href="https://stepik.org/cert/2179033">Web Development for Beginners: HTML and CSS</a>
+        </li>
+        <li>
+            <a href="https://stepik.org/cert/1894075">Introduction to databases</a>
+        </li>
+        <li>
+            <a href="https://stepik.org/cert/1862842">Interactive SQL Trainer</a>
+        </li>
+        <li>
+            <a href="https://stepik.org/cert/1759156">The universe of testing, or how to become a tester</a>
+        </li>
+        <li>
+            <a href="https://stepik.org/cert/1739201">Software Testing: Postman for API Testing</a>
+        </li>
+    </ul>
 
 ### 🤝 Контакт
 <div id="header" align="center">
