@@ -107,9 +107,6 @@ https://repinikita.github.io/
             <a href="">Interactive SQL Trainer</a>
         </li>
         <li>
-            <a href="https://stepik.org/cert/1759156">The universe of testing, or how to become a tester</a>
-        </li>
-        <li>
             <a href="https://stepik.org/cert/1973608?lang=eng">Software Testing: Postman for API Testing</a>
         </li>
         <li>
