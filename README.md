@@ -88,7 +88,7 @@ https://repinikita.github.io/
 
 ## 🤝 Контакт
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3c5MnUyNHo0aWRzaTZwajVoeXQxYXQzNDBraXpzODU4MzQxcW85YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150px" />
 </div>
 
 <div id="badges" align="center">
