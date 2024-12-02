@@ -87,6 +87,7 @@ https://repinikita.github.io/
 ### 📜 Моё [резюме]()
 
 ### 📚Сертификаты
+  <div>
     <ul>
         <li>
             <a href="https://stepik.org/cert/2638253lang=en">Postman-ninja: From scratch to autotests</a>
@@ -115,7 +116,7 @@ https://repinikita.github.io/
             <a href="https://stepik.org/cert/1739201">Software Testing: Postman for API Testing</a>
         </li>
     </ul>
-
+  </div>
 ### 🤝 Контакт
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150px" />
