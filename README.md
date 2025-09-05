@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Hi there, I'm <a href="https://github.com/repinikita" target="_blank">Nikita</a> :vulcan_salute: </h1>
- 
+  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
@@ -66,62 +66,11 @@ https://repinikita.github.io/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
 </div>
 
-### 📑 Тестовые артефакты:
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li><a href="https://github.com/repinikita/test_design">Техники тест-дизайна</a></li>
-        <li><a href="https://github.com/repinikita/knigiroom">Тестирование API</a></li>
-        <li><a href="https://github.com/repinikita/sql_practice">Работа с базами данных</a></li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="300" />
-    </td>
-  </tr>
-</table>
 
 
-### 📜 Моё [резюме]()
 
-### 📚Сертификаты
-  <div>
-    <ul>
-        <li>
-            <a href="https://stepik.org/cert/2638253">Postman-ninja: From scratch to autotests</a>
-        </li>
-        <li>
-            <a href="https://stepik.org/cert/2366782">Certificate of Artem Rusov:
-                Software testing from
-                scratch</a>
-        </li>
-        <li>
-            <a href="https://stepik.org/cert/2388339?lang=eng">Web Technologies</a>
-        </li>
-        <li>
-            <a href="https://stepik.org/cert/2647882?lang=eng">SQL Basics</a>
-        </li>
-        <li>
-            <a href="">Interactive SQL Trainer</a>
-        </li>
-        <li>
-            <a href="https://stepik.org/cert/1973608?lang=eng">Software Testing: Postman for API Testing</a>
-        </li>
-        <li>
-            <a href="https://stepik.org/cert/2366033?lang=eng">Practical Testing-Basic course</a>
-        </li>
-        <li>
-            <a href="https://stepik.org/cert/2597387?lang=eng">Agile Project Managment</a>
-        </li>
-          <li>
-            <a href="https://stepik.org/cert/2624123?lang=eng">Project Managment.From Theory to Practise</a>
-        </li>
-    </ul>
-  </div>
-  
-### 🤝 Контакт
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150px" />
 </div>
