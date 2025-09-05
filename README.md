@@ -1,4 +1,4 @@
-<div>
+// <div>
   <h1 align="center">Hi there, I'm <a href="https://github.com/repinikita" target="_blank">Nikita</a> :vulcan_salute: </h1>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer)](https://git.io/typing-svg)
@@ -137,4 +137,4 @@ https://repinikita.github.io/
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Burlaka27" alt="Visitor Badge"/>
-</div>
+</div>//
